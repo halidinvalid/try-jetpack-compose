@@ -1,4 +1,4 @@
-## in development
+## In development
 
 # Hands on with the new UI framework for Android apps
 
